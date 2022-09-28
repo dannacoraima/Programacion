@@ -2,16 +2,16 @@
 using namespace std;
 int main()
 {
-	float a,b;
-	cout<<"ingrese a b:"; cin>>a>>b;
-	if(a>b)
+	float DCSY_a,DCSY_b;
+	cout<<"ingrese DCSY_ a DCSY_ b:"; cin>>DCSY_a>>DCSY_b;
+	if(DCSY_a>DCSY_b)
 	{
-	  cout<<a<<" es mayor a "<<b<<endl;
+	  cout<<DCSY_a<<" es mayor DCSY_ a "<<DCSY_b<<endl;
 
 
 	}else{
 
-	  cout<<b<<" es mayor a "<<a<<endl;
+	  cout<<DCSY_b<<" es mayor DCSY_ a "<<DCSY_a<<endl;
 
 
 	}
